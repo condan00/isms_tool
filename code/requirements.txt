@@ -1,0 +1,3 @@
+questionary>=2.0
+rich>=13
+openpyxl>=3.1
